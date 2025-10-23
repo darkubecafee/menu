@@ -159,4 +159,10 @@ sections:
       - name: "سوسیس نیمرو"
         price: "130"
         description: ""
+      - name: "املت"
+        price: "110"
+        description: ""
+      - name: "املت پنیری"
+        price: "110"
+        description: ""
 #----------------------------------------------------------#
